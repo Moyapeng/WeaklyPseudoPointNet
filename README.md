@@ -1,4 +1,4 @@
-# PointNet: A method for nuclei segmentation with Points Annotation
+# WeaklyPseudoPointNet: A method for nuclei segmentation with Points Annotation
 ## Description
 This page includes the code corresponding to our method.
 
